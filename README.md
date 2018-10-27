@@ -1,4 +1,4 @@
-# karma-chameleon-reporter
+# karma-chameleon
 
 ```
  ╱▉▔▉▔▉▔▉╲▕▔╲
