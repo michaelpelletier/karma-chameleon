@@ -1,0 +1,24 @@
+{
+    "name": "karma-chameleon",
+    "description": "A browser test reporter for Karma",
+    "version": "0.1.0",
+    "main": "index.js",
+    "author": "Michael Pelletier <michael@mpelletier.net>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/michaelpelletier/karma-chameleon.git"
+    },
+    "keywords": [
+        "karma",
+        "karma-reporter"
+    ],
+    "bugs": {
+        "url": "https://github.com/michaelpelletier/karma-chameleon/issues"
+    },
+    "homepage": "https://github.com/michaelpelletier/karma-chameleon",
+    "dependencies": {
+        "chalk": "1.1.3",
+        "lodash": "4.17.5"
+    }
+}
